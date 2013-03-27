@@ -1,0 +1,10 @@
+[user]
+	name = Santtu Pajukanta
+	email = santtu@pajukanta.fi
+[alias]
+        st = status
+        prom = pull --rebase origin master
+        rb = rebase
+        co = checkout
+        ci = commit
+        ff = pull --ff-only
