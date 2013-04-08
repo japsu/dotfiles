@@ -1,0 +1,1 @@
+bsdmainutils vim screen git man-db manpages-dev
