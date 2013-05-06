@@ -10,3 +10,4 @@
         co = checkout
         ci = commit
         ff = pull --ff-only
+        aa = add -A
