@@ -1,1 +1,1 @@
-bsdmainutils vim screen git man-db manpages-dev
+bsdmainutils vim screen git man-db manpages-dev rsync patch bind9-host
